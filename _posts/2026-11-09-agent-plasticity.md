@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Agent Plasticity: Measuring How Well AI Agents Get Better Through Experience"
-date: 2026-10-13 09:00:00
+date: 2026-11-09 09:00:00
 author: <a href="https://harmandotpy.github.io/">Harman Singh</a>, <a href="https://github.com/akhti">Anton Bakhtin</a>, <a href="https://rulinshao.github.io/">Rulin Shao</a>, <a href="https://syhw.github.io/">Gabriel Synnaeve</a>, <a href="https://uralik.github.io/">Ilia Kulikov</a>, <a href="https://cs.nyu.edu/~fergus/">Rob Fergus</a>,<br><a href="https://www.cs.princeton.edu/~arora/">Sanjeev Arora</a>, <a href="https://people.eecs.berkeley.edu/~keutzer/">Kurt Keutzer</a>, <a href="https://ai.meta.com/people/jason-weston/">Jason Weston</a>, <a href="https://anuj-mahajan.github.io/">Anuj Mahajan$^\dagger$</a> and <a href="https://anirudh9119.github.io/">Anirudh Goyal$^\dagger$</a>
 # PRODUCTION (uncomment after uploading to /static/blog/agent-plasticity/):
 # img: https://bair.berkeley.edu/static/blog/agent-plasticity/cover.png
